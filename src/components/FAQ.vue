@@ -1,7 +1,6 @@
 <script setup>
 import {faqs } from '../data/data'</script>
 <template>
-    <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
             <div class="container" data-aos="fade-up">
                 <div class="section-title">
@@ -20,5 +19,5 @@ import {faqs } from '../data/data'</script>
                     </ul>
                 </div>
             </div>
-        </section><!-- End Frequently Asked Questions Section -->
+        </section>
 </template>
