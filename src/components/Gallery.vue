@@ -21,7 +21,7 @@
                                 <img src="/img/gallery/gallery-3.png" class="img-fluid" alt="">
                             </a>
                         </div>
-                        <!-- <div class="swiper-slide"><a href="/img/gallery/gallery-4.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="/img/gallery/gallery-4.png" class="img-fluid" alt=""></a></div> -->
+                       
                         <div class="swiper-slide"><a href="/img/gallery/gallery-5.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="/img/gallery/gallery-5.png" class="img-fluid" alt=""></a></div>
                         <div class="swiper-slide"><a href="/img/gallery/gallery-6.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="/img/gallery/gallery-6.png" class="img-fluid" alt=""></a></div>
                         <div class="swiper-slide"><a href="/img/gallery/gallery-7.png" class="gallery-lightbox" data-gall="gallery-carousel"><img src="/img/gallery/gallery-7.png" class="img-fluid" alt=""></a></div>

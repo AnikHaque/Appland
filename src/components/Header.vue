@@ -9,8 +9,6 @@ import {logo,menus} from '../data/data'
 
         <div class="logo">
             <h1><a :href="logo.a.href">{{ logo.a.appName }}</a></h1>
-            <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a :href="logo.a.href"><img :src="logo.img.src" :alt="logo.img.alt" class="img-fluid"></a> -->
         </div>
 
         <nav id="navbar" class="navbar">
